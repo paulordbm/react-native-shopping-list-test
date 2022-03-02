@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "react-native-shopping-list-test",
+    "slug": "react-native-shopping-list-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
